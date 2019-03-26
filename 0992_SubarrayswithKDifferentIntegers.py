@@ -3,6 +3,9 @@ class Solution:
         return self.subarraysAtMostK(A, K) - self.subarraysAtMostK(A, K - 1)
         
     def subarraysAtMostK(self, A, K):
+        """
+        count number of subarrays with at most K (at least 1) distinct numbers
+        """
         counter = {}
         left = 0
         res = 0
