@@ -2,6 +2,8 @@
 
 ## Array
 ### Two pointers
+42 Trapping Rain Water (H)  
+#### Frequency of char in string
 904 Fruit Into Baskets (M)  
 992 Subarrays with K Different Integers (H-)  
 
