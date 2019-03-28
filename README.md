@@ -7,3 +7,6 @@
 
 ## Math
 553 Optimal Division (M)  
+
+## Linked List
+146 LRU Cache (H)  
