@@ -14,4 +14,4 @@
 146 LRU Cache (H)  
 
 ## DFS
-301 Remove Invalid Parentheses  
+301 Remove Invalid Parentheses (H)  
