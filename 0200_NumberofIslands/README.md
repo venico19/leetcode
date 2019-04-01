@@ -1,5 +1,5 @@
-*Solution 1: DFS*    
+**Solution 1: DFS**    
 
-*Solution 2: BFS*   
+**Solution 2: BFS**   
 
-*Solution 3: Union Find*  
+**Solution 3: Union Find (to do)**  
