@@ -21,4 +21,7 @@
 200 Number of Islands (M)   
 
 ## Union Find
-200 Number of Islands (M)   
+200 Number of Islands (M)  
+
+# Dynamic Programming   
+1000 Minimum Cost to Merge Stones (H+)   
