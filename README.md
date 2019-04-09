@@ -8,6 +8,8 @@
 
 # Math  
 553 Optimal Division (M)  
+593 Valid Square (M)  
+264 Ugly Number II (M)  
 
 # Linked List  
 146 LRU Cache (H)  
@@ -23,5 +25,14 @@
 ## Union Find
 200 Number of Islands (M)  
 
+# Tree  
+## Trie  
+212 Word Search II (H)  
+
 # Dynamic Programming   
-1000 Minimum Cost to Merge Stones (H+)   
+1000 Minimum Cost to Merge Stones (H+)  
+518 Coin Change 2 (M)  
+474 Ones and Zeroes (M)  
+
+# Binary Search  
+410 Split Array Largest Sum (H)  
