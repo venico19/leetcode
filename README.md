@@ -1,5 +1,6 @@
 # Array
 238 Product of Array Except Self (M)   
+798 Smallest Rotation with Highest Score (H)   
 ## Two pointers
 42 Trapping Rain Water (H)  
 ### Frequency of char in string
