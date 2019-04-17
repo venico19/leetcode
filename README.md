@@ -34,7 +34,8 @@
 1000 Minimum Cost to Merge Stones (H+)  
 518 Coin Change 2 (M)  
 474 Ones and Zeroes (M)  
-91 Decode Ways (M)  
+91 Decode Ways (M)   
+221 Maximal Square (M)   
 
 # Binary Search  
 410 Split Array Largest Sum (H)  

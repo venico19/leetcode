@@ -14,6 +14,9 @@ good k range is [(i - (n-1))%n, (i-num+1)%n), here is [1,4)
 for example，A[0] = 2, left = 1, right = 4, good = [0, 1, 0, 0, -1].   
 cum sum of good is: [0, 1, 1, 1, 0], which is good range for k.   
 
+if we loop all good k and do good[k] += 1, total time complexity will be O(n^2)  
+if we only record good k range left and right points, time complextity is O(n)  
+
 还有一点需要处理的：如果good k range不连续怎么办？   
 for example, A[2] = 1,  good k range: [3, 4, 0, 1], left = 3, right = 2, left > right   
 这个range可以拆成[3, 5), [0, 2)   
