@@ -18,6 +18,7 @@
 
 # Linked List  
 146 LRU Cache (H)  
+23 Merge k Sorted Lists (H-)  
 
 # Search   
 ## DFS
@@ -41,6 +42,7 @@
 91 Decode Ways (M)   
 221 Maximal Square (M)   
 375 Guess Number Higher or Lower II (M)  
+446 Arithmetic Slices II - Subsequence (H)   
 
 # Binary Search  
 410 Split Array Largest Sum (H)  
