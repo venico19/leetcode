@@ -4,6 +4,7 @@
 1031 Maximum Sum of Two Non-Overlapping Subarrays (M)  
 46 Permutations (M)  
 47 Permutations II (M)  
+31 Next Permutation (M)  
 
 ## Two pointers
 42 Trapping Rain Water (H)  
