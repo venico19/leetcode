@@ -45,6 +45,7 @@
 375 Guess Number Higher or Lower II (M)  
 446 Arithmetic Slices II - Subsequence (H)   
 664 Strange Printer (H)  
+740 Delete and Earn (M)   
 
 # Binary Search  
 410 Split Array Largest Sum (H)  
