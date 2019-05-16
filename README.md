@@ -4,6 +4,7 @@
 1031 Maximum Sum of Two Non-Overlapping Subarrays (M)  
 46 Permutations (M)  
 47 Permutations II (M)  
+31 Next Permutation (M)  
 
 ## Two pointers
 42 Trapping Rain Water (H)  
@@ -45,6 +46,8 @@
 446 Arithmetic Slices II - Subsequence (H)   
 10 Regular Expression Matching (H)    
 975 Odd Even Jump (H)  
+664 Strange Printer (H)  
+740 Delete and Earn (M)   
 
 # Binary Search  
 410 Split Array Largest Sum (H)  
