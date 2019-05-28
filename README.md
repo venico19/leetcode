@@ -33,6 +33,7 @@
 200 Number of Islands (M)  
 
 # Tree  
+297 Serialize and Deserialize Binary Tree (H)  
 ## Trie  
 212 Word Search II (H)  
 
@@ -51,3 +52,5 @@
 
 # Binary Search  
 410 Split Array Largest Sum (H)  
+33 Search in Rotated Sorted Array (M)   
+
