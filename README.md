@@ -8,7 +8,7 @@
 
 ## Two pointers
 42 Trapping Rain Water (H)  
-### Frequency of char in string
+### Sliding Window (e.g. Frequency of char in string)
 904 Fruit Into Baskets (M)  
 992 Subarrays with K Different Integers (H-)  
 76 Minimum Window Substring (H)   
@@ -32,6 +32,9 @@
 
 ## Union Find
 200 Number of Islands (M)  
+
+# Backtracking  
+46 Permutations (M)  
 
 # Tree  
 297 Serialize and Deserialize Binary Tree (H)  
