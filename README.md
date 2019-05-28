@@ -11,6 +11,7 @@
 ### Frequency of char in string
 904 Fruit Into Baskets (M)  
 992 Subarrays with K Different Integers (H-)  
+76 Minimum Window Substring (H)   
 
 # Math  
 553 Optimal Division (M)  
