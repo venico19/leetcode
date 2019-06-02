@@ -43,7 +43,9 @@
 
 # Tree  
 297 Serialize and Deserialize Binary Tree (H)  
-1028 Recover a Tree From Preorder Traversal (H-)  
+1028 Recover a Tree From Preorder Traversal (H-)   
+236 Lowest Common Ancestor of a Binary Tree (M)  
+104 Maximum Depth of Binary Tree (E)  
 
 ## Trie  
 212 Word Search II (H)  
