@@ -39,9 +39,12 @@
 
 # Backtracking  
 46 Permutations (M)  
+22 Generate Parentheses (M)  
 
 # Tree  
 297 Serialize and Deserialize Binary Tree (H)  
+1028 Recover a Tree From Preorder Traversal (H-)  
+
 ## Trie  
 212 Word Search II (H)  
 
