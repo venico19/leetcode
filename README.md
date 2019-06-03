@@ -5,6 +5,7 @@
 46 Permutations (M)  
 47 Permutations II (M)  
 31 Next Permutation (M)  
+611 Valid Triangle Number (M)  
 
 ## Two pointers
 42 Trapping Rain Water (H)  
