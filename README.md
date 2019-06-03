@@ -17,7 +17,8 @@
 553 Optimal Division (M)  
 593 Valid Square (M)  
 264 Ugly Number II (M)  
-149 Max Points on a Line (H)  
+149 Max Points on a Line (H)   
+65 Valid Number (H)  
 
 # Linked List  
 146 LRU Cache (H)  
