@@ -17,6 +17,7 @@
 553 Optimal Division (M)  
 593 Valid Square (M)  
 264 Ugly Number II (M)  
+149 Max Points on a Line (H)  
 
 # Linked List  
 146 LRU Cache (H)  
@@ -47,7 +48,8 @@
 1028 Recover a Tree From Preorder Traversal (H-)   
 236 Lowest Common Ancestor of a Binary Tree (M)  
 104 Maximum Depth of Binary Tree (E)  
-366 Find Leaves of Binary Tree (M)
+366 Find Leaves of Binary Tree (M)  
+272 Closest Binary Search Tree Value II (H-)  
 
 ## Trie  
 212 Word Search II (H)  
