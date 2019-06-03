@@ -74,3 +74,6 @@
 # Random  
 528 Random Pick with Weight (M)  
 380 Insert Delete GetRandom O(1) (M)  
+
+# Stack  
+716 Max Stack (E)
