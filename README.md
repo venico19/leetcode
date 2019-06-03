@@ -47,6 +47,7 @@
 1028 Recover a Tree From Preorder Traversal (H-)   
 236 Lowest Common Ancestor of a Binary Tree (M)  
 104 Maximum Depth of Binary Tree (E)  
+366 Find Leaves of Binary Tree (M)
 
 ## Trie  
 212 Word Search II (H)  
