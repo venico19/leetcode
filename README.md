@@ -52,6 +52,7 @@
 104 Maximum Depth of Binary Tree (E)  
 366 Find Leaves of Binary Tree (M)  
 272 Closest Binary Search Tree Value II (H-)  
+110 Balanced Binary Tree (E+)  
 
 ## Trie  
 212 Word Search II (H)  
@@ -80,4 +81,9 @@
 380 Insert Delete GetRandom O(1) (M)  
 
 # Stack  
-716 Max Stack (E)
+716 Max Stack (E)  
+636 Exclusive Time of Functions (M)  
+
+# String  
+833 Find And Replace in String (M)  
+68 Text Justification (H-)
