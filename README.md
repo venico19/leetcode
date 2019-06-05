@@ -31,6 +31,7 @@
 200 Number of Islands (M)  
 103 Binary Tree Zigzag Level Order Traversal (M)   
 698 Partition to K Equal Sum Subsets (H)  
+399 Evaluate Division (M)  
 
 ## BFS  
 200 Number of Islands (M)   
@@ -79,6 +80,7 @@
 # Random  
 528 Random Pick with Weight (M)  
 380 Insert Delete GetRandom O(1) (M)  
+384 Shuffle an Array (M)  
 
 # Stack  
 716 Max Stack (E)  
