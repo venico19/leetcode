@@ -38,6 +38,10 @@
 103 Binary Tree Zigzag Level Order Traversal (M)   
 127 Word Ladder (M)  
 126 Word Ladder II (H)  
+207 Course Schedule (M)  
+
+## Topological Sorting  
+207 Course Schedule (M)  
 
 ## Union Find
 200 Number of Islands (M)  
