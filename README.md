@@ -92,6 +92,9 @@
 716 Max Stack (E)  
 636 Exclusive Time of Functions (M)  
 
+# Queue
+239 Sliding Window Maximum (H)  
+
 # String  
 833 Find And Replace in String (M)  
 68 Text Justification (H-)
