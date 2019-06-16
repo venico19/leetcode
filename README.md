@@ -6,6 +6,8 @@
 47 Permutations II (M)  
 31 Next Permutation (M)  
 611 Valid Triangle Number (M)  
+560 Subarray Sum Equals K (M)   (prefix sum)   
+1074 Number of Submatrices That Sum to Target (H)  (prefix sum)  
 
 ## Two pointers
 42 Trapping Rain Water (H)  
@@ -77,6 +79,7 @@
 740 Delete and Earn (M)   
 265 Paint House II (H-)   
 188 Best Time to Buy and Sell Stock IV (H)  
+85 Maximal Rectangle (H)  
 
 # Binary Search  
 410 Split Array Largest Sum (H)  
@@ -95,6 +98,7 @@
 # Stack  
 716 Max Stack (E)  
 636 Exclusive Time of Functions (M)  
+84 Largest Rectangle in Histogram (H)  
 
 # Queue
 239 Sliding Window Maximum (H)  
