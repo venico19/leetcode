@@ -2,7 +2,7 @@ class Solution:
     def splitArray(self, nums: List[int], m: int) -> int:
         # binary search
         upper = sum(nums)
-        lower = max((upper // m), max(nums))
+        lower = max(nums)
         
         while lower < upper:
             mid = (lower + upper) // 2
