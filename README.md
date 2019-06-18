@@ -35,6 +35,7 @@
 103 Binary Tree Zigzag Level Order Traversal (M)   
 698 Partition to K Equal Sum Subsets (H)  
 399 Evaluate Division (M)  
+803 Bricks Falling When Hit (H)  
 
 ## BFS  
 200 Number of Islands (M)   
