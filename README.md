@@ -90,6 +90,7 @@
 
 # Heap  
 378 Kth Smallest Element in a Sorted Matrix (M)  
+632 Smallest Range (H)  
 
 # Random  
 528 Random Pick with Weight (M)  
