@@ -37,6 +37,7 @@
 399 Evaluate Division (M)  
 803 Bricks Falling When Hit (H)  
 947 Most Stones Removed with Same Row or Column (M)  
+802 Find Eventual Safe States (M)  
 
 ## BFS  
 200 Number of Islands (M)   

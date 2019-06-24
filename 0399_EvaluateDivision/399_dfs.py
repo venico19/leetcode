@@ -33,8 +33,6 @@ class Solution:
                     ans = dfs(nei, b, prev * g[a][nei], visited)
                     if ans != -1.0:
                         return ans
-                    else:
-                        visited.remove(nei)
             return -1.0
                     
         return dfs(a, b, 1.0, set([a]))
