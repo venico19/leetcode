@@ -36,6 +36,7 @@
 698 Partition to K Equal Sum Subsets (H)  
 399 Evaluate Division (M)  
 803 Bricks Falling When Hit (H)  
+947 Most Stones Removed with Same Row or Column (M)  
 
 ## BFS  
 200 Number of Islands (M)   
@@ -81,6 +82,7 @@
 265 Paint House II (H-)   
 188 Best Time to Buy and Sell Stock IV (H)  
 85 Maximal Rectangle (H)  
+727 Minimum Window Subsequence (H)   
 
 # Binary Search  
 410 Split Array Largest Sum (H)  
