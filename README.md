@@ -104,8 +104,9 @@
 716 Max Stack (E)  
 636 Exclusive Time of Functions (M)  
 84 Largest Rectangle in Histogram (H)  
-224 Basic Calculator (H)  
-227 Basic Calculator II (M)  
+224 Basic Calculator (H)   
+227 Basic Calculator II (M)   
+772 Basic Calculator III (H)   
 
 # Queue
 239 Sliding Window Maximum (H)  
