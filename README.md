@@ -84,6 +84,7 @@
 188 Best Time to Buy and Sell Stock IV (H)  
 85 Maximal Rectangle (H)  
 727 Minimum Window Subsequence (H)   
+741 Cherry Pickup (H)   
 
 # Binary Search  
 410 Split Array Largest Sum (H)  
