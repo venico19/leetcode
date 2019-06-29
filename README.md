@@ -51,7 +51,7 @@
 207 Course Schedule (M)  
 
 ## Union Find
-200 Number of Islands (M)  
+1101 The Earliest Moment When Everyone Become Friends (M)  
 
 # Backtracking  
 46 Permutations (M)  
@@ -92,7 +92,7 @@
 33 Search in Rotated Sorted Array (M)   
 981 Time Based Key-Value Store (M)    
 378 Kth Smallest Element in a Sorted Matrix (M)  
-1102 Path With Maximum Minimum Value (H)  
+1102 Path With Maximum Minimum Value (M)  
 
 # Heap  
 378 Kth Smallest Element in a Sorted Matrix (M)  
