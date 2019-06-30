@@ -87,6 +87,8 @@
 85 Maximal Rectangle (H)  
 727 Minimum Window Subsequence (H)   
 741 Cherry Pickup (H)   
+1043 Partition Array for Maximum Sum (M)  
+1105 Filling Bookcase Shelves (M)  (a variant of 1043)    
 
 # Binary Search  
 410 Split Array Largest Sum (H)  
