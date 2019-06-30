@@ -65,6 +65,7 @@
 366 Find Leaves of Binary Tree (M)  
 272 Closest Binary Search Tree Value II (H-)  
 110 Balanced Binary Tree (E+)  
+427 Construct Quad Tree (M)  
 
 ## Trie  
 212 Word Search II (H)  
