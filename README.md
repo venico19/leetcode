@@ -66,6 +66,7 @@
 272 Closest Binary Search Tree Value II (H-)  
 110 Balanced Binary Tree (E+)  
 427 Construct Quad Tree (M)  
+437 Path Sum III (E+)  
 
 ## Trie  
 212 Word Search II (H)  
