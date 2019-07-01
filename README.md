@@ -67,6 +67,7 @@
 110 Balanced Binary Tree (E+)  
 427 Construct Quad Tree (M)  
 437 Path Sum III (E+)  
+94 Binary Tree Inorder Traversal (M)  
 
 ## Trie  
 212 Word Search II (H)  
