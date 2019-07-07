@@ -125,3 +125,6 @@
 
 # Greedy   
 630 Course Schedule III (H)   
+
+# Binary Indexed Tree   
+307 Range Sum Query - Mutable (M)  
