@@ -91,6 +91,7 @@
 741 Cherry Pickup (H)   
 1043 Partition Array for Maximum Sum (M)  
 1105 Filling Bookcase Shelves (M)  (a variant of 1043)    
+837 New 21 Game (M)   
 
 # Binary Search  
 410 Split Array Largest Sum (H)  
