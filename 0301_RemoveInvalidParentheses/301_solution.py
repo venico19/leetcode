@@ -1,49 +1,50 @@
 class Solution:
     def removeInvalidParentheses(self, s: str) -> List[str]:
-        l_remove, r_remove = 0, 0
-        l_count, r_count = 0, 0
-        for char in s:
-            if char == '(':
-                l_count += 1
-            if char == ')':
-                r_count += 1
-            if r_count > l_count:
-                r_remove += 1
-                r_count -= 1
-        l_remove = l_count - r_count
+        l_remove, r_remove = self.countRemove(s)
+        res = []
         
-        def dfs(s, l_remove, r_remove, start):
-            if l_remove == 0 and r_remove == 0 and self.isValid(s):
+        def backtracking(s, l_remove, r_remove, start):
+            if l_remove == r_remove == 0 and self.isValid(s):
                 res.append(s)
-                return
-            
-            n = len(s)
-            
+                return 
             i = start
-            while i < n:
+            while i < len(s):
                 if s[i] == ')' and r_remove > 0:
-                    dfs(s[:i]+s[i+1:], l_remove, r_remove - 1, i)
-                if s[i] == '(' and r_remove == 0:
-                    dfs(s[:i]+s[i+1:], l_remove - 1, r_remove, i)
-                while i < n - 1 and s[i+1] == s[i]:
+                    backtracking(s[:i]+s[i+1:], l_remove, r_remove - 1, i)
+                elif s[i] == '(' and r_remove == 0 and l_remove > 0:
+                    backtracking(s[:i]+s[i+1:], l_remove - 1, r_remove, i)
+                # avoid duplicates
+                while i < len(s) - 1 and s[i+1] == s[i]:
                     i += 1
                 i += 1
-
-        res = []
-        dfs(s, l_remove, r_remove, 0)
+                
+        backtracking(s, l_remove, r_remove, 0)
         return res
+                    
         
-    def isValid(self, s):
-        stack = []
+    def countRemove(self, s):
+        left_count, right_count = 0, 0
+        left_remove, right_remove = 0, 0
         for char in s:
-            if char not in '()':
-                continue
-            if char == ')':
-                if not stack or stack[-1] != '(':
-                    return False
-                else:
-                    stack.pop()
             if char == '(':
-                stack.append(char)
-        return len(stack) == 0
-        
+                left_count += 1
+            elif char == ')':
+                right_count += 1
+            
+            if right_count > left_count:
+                right_remove += 1
+                right_count -= 1
+                
+        left_remove = left_count - right_count
+        return left_remove, right_remove
+    
+    def isValid(self, s):
+        left = 0
+        for char in s:
+            if char == '(':
+                left += 1
+            elif char == ')':
+                if left == 0:
+                    return False
+                left -= 1
+        return left == 0

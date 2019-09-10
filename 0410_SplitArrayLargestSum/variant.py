@@ -3,14 +3,14 @@
 def splitArray(nums, m):
     upper = sum(nums)
     lower = min(nums)
-    while lower < upper:
-        mid = (lower + upper + 1) // 2
+    while lower <= upper:
+        mid = (lower + upper) // 2
         if isSplitValid(nums, m, mid):
-            lower = mid
+            lower = mid + 1
         else:
             upper = mid - 1
                 
-    return lower
+    return lower - 1
         
 def isSplitValid(nums, m, limit):
     count = 1

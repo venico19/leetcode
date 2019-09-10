@@ -4,4 +4,4 @@
 
 **Solution 3: BFS (iterative)**   
 
-**Solution 4: Union Find (to do)**  
+**Solution 4: Union Find**  
